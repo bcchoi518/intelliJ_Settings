@@ -1,0 +1,22 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "C:/Developement/Workspace/Spring_Study",
+    "settings.editor.selected.configurable": "settings.sync"
+  }
+}]]></component>
+      <component name="WindowStateProjectService">
+        <state x="549" y="122" key="FileChooserDialogImpl" timestamp="1670935702439">
+          <screen x="0" y="0" width="1536" height="816" />
+        </state>
+        <state x="549" y="122" key="FileChooserDialogImpl/0.0.1536.816" timestamp="1670935702439" />
+        <state x="561" y="57" key="SettingsEditor" timestamp="1671103598860">
+          <screen x="0" y="0" width="1536" height="816" />
+        </state>
+        <state x="561" y="57" key="SettingsEditor/0.0.1536.816" timestamp="1671103598860" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

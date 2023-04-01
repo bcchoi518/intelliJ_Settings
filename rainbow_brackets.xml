@@ -1,7 +1,11 @@
 <application>
   <component name="RainbowSettings">
+    <option name="bigFilesLinesThreshold" value="2000" />
     <option name="enableRainbowVariables" value="true" />
+    <option name="indentGuidesOptions" value="Only selected indent guide" />
     <option name="rainbowVariablesOptionShowed" value="true" />
-    <option name="version" value="2022.3.5" />
+    <option name="suppressBigFileCheck" value="true" />
+    <option name="suppressXMLCheck" value="true" />
+    <option name="version" value="2023.2.6" />
   </component>
 </application>

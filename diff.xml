@@ -2,4 +2,13 @@
   <component name="ExternalDiffSettings">
     <option name="MIGRATE_OLD_SETTINGS" value="true" />
   </component>
+  <component name="SvnDiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="Default">
+        <PlaceSettings>
+          <option name="SPLITTER_PROPORTION" value="1.0" />
+        </PlaceSettings>
+      </entry>
+    </option>
+  </component>
 </application>

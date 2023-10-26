@@ -4,7 +4,7 @@
     <property name="created">2017-04-10T18:10:53</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2023-10-10T09:00:53</property>
+    <property name="modified">2023-10-26T09:13:40</property>
     <property name="originalScheme">Material Darker</property>
     <property name="pluginId">com.mallowigi.idea</property>
   </metaInfo>
@@ -2958,7 +2958,7 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="" />
+    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR1">
       <value>
         <option name="FOREGROUND" value="c3e88d" />

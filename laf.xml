@@ -1,7 +1,6 @@
 <application>
-  <component name="LafManager" autodetect="true">
-    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="Monokai Pro Compact Contrast" />
-    <preferred-light-laf class-name="com.intellij.ide.ui.laf.IntelliJLaf" themeId="Material Lighter Compact Contrast" />
+  <component name="LafManager" autodetect="false">
+    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="0fc029af-0fce-43bd-b5c8-e2d9f78211dc" />
     <preferred-dark-laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="Monokai Pro Compact Contrast" />
   </component>
 </application>

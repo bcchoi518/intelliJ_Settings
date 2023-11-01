@@ -1,12 +1,10 @@
 <application>
   <component name="UISettings">
-    <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="2048" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
-    <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-    <option name="PRESENTATION_MODE_FONT_SIZE" value="20" />
     <option name="SEPARATE_MAIN_MENU" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
     <option name="UI_DENSITY" value="COMPACT" />
   </component>
 </application>

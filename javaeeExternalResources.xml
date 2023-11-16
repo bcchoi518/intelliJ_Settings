@@ -1,6 +1,7 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://www.w3.org/TR/xhtml1/DTD/xhtml1-Strict.dtd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2022.3/extResources/eb951cf_xhtml1-Strict.dtd" />
+    <ignored-resource url="http://tiles.apache.org/dtds/tiles-config_3_0.dtd" />
     <ignored-resource url="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" />
   </component>
 </application>

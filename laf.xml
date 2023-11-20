@@ -1,9 +1,10 @@
 <application>
   <component name="LafManager" autodetect="false">
-    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="0fc029af-0fce-43bd-b5c8-e2d9f78211dc" />
+    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="ExperimentalDark" />
     <preferred-dark-laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="Darcula" scheme="_@user_nightfall" />
+      <laf-to-scheme laf="nightfall" scheme="_@user_Default" />
     </lafs-to-previous-schemes>
   </component>
 </application>

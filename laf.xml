@@ -1,6 +1,6 @@
 <application>
-  <component name="LafManager" autodetect="false">
-    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="dinbtechit-7ef0c378d737e162955f3e028dcf9ccb" />
+  <component name="LafManager">
+    <laf themeId="dinbtechit-7ef0c378d737e162955f3e028dcf9ccb" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="Darcula" scheme="_@user_nightfall" />
       <laf-to-scheme laf="VSCode Dark Modern" scheme="_@user_Default" />

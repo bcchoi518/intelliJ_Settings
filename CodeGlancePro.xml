@@ -2,5 +2,6 @@
   <component name="CodeGlance Pro">
     <option name="consoleWidth" value="56" />
     <option name="diffWidth" value="61" />
+    <option name="mainWidth" value="250" />
   </component>
 </application>

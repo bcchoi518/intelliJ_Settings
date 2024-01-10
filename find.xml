@@ -7,11 +7,11 @@
     <option name="SEARCH_SCOPE" value="Project Files" />
     <mask>*.html</mask>
     <mask>*.properties</mask>
-    <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.css</mask>
+    <mask>*.java</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>

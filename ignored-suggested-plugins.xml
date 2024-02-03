@@ -4,6 +4,8 @@
       <list>
         <option value="com.haulmont.jpab" />
         <option value="com.intellij.kubernetes" />
+        <option value="com.intellij.spring.batch" />
+        <option value="com.intellij.javaee.batch" />
       </list>
     </option>
   </component>

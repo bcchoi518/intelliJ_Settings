@@ -1,5 +1,7 @@
 <application>
   <component name="VSCodeThemeSettings">
-    <option name="version" value="1.10.9" />
+    <option name="alwaysApply" value="true" />
+    <option name="themeName" value="VSCode Dark Modern" />
+    <option name="version" value="1.10.10" />
   </component>
 </application>

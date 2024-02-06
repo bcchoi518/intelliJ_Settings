@@ -3,7 +3,7 @@
     <laf themeId="dinbtechit-7ef0c378d737e162955f3e028dcf9ccb" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="Darcula" scheme="_@user_nightfall" />
-      <laf-to-scheme laf="VSCode Dark Modern" scheme="_@user_Default" />
+      <laf-to-scheme laf="dinbtechit-2179230b863b9b1d9f1eeb27ca4a3a70" scheme="_@user_Default" />
       <laf-to-scheme laf="nightfall" scheme="_@user_Default" />
     </lafs-to-previous-schemes>
   </component>

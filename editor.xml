@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeVisionSettings">
+    <option name="defaultPosition" value="Right" />
+  </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="AUTOREPARSE_DELAY" value="0" />
   </component>
@@ -15,6 +18,9 @@
         <entry key="ts.type.hints" value="true" />
       </map>
     </option>
+  </component>
+  <component name="InlineCompletionOnboarding">
+    <option name="onboardingFinished" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />

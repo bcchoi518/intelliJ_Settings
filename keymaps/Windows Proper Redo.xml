@@ -5,4 +5,8 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
 </keymap>

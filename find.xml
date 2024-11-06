@@ -10,10 +10,10 @@
     <mask>*.css</mask>
     <mask>*.css</mask>
     <mask>*.properties</mask>
-    <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.jsp</mask>
     <mask>*Controller.java</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

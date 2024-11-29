@@ -1,5 +1,9 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="tibero">
+      <artifact id="Tibero" name="Tibero" use="true" version="6.0" />
+      <keep-alive-query>select 'keep alive' from dual</keep-alive-query>
+    </driver>
     <driver id="mariadb">
       <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="3.3.3" />
     </driver>

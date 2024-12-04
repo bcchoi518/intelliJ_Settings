@@ -13,7 +13,7 @@
     <mask>*.js</mask>
     <mask>*Controller.java</mask>
     <mask>*.jsp</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

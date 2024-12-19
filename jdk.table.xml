@@ -6,11 +6,6 @@
       <version value="Oracle OpenJDK 1.8.0_202" />
       <homePath value="C:/cbc/util/jdk/jdk1.8.0_202" />
       <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="jar://C:/cbc/util/jdk/jdk1.8.0_202/jre/lib/charsets.jar!/" type="simple" />
@@ -38,9 +33,6 @@
             <root url="jar://C:/cbc/util/jdk/jdk1.8.0_202/jre/lib/rt.jar!/" type="simple" />
           </root>
         </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root url="jar://C:/cbc/util/jdk/jdk1.8.0_202/src.zip!/" type="simple" />
@@ -55,11 +47,6 @@
       <version value="Oracle OpenJDK 1.8.0_202" />
       <homePath value="C:/cbc/util/jdk/jdk1.8.0_202" />
       <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="jar://C:/cbc/util/jdk/jdk1.8.0_202/jre/lib/charsets.jar!/" type="simple" />
@@ -87,9 +74,6 @@
             <root url="jar://C:/cbc/util/jdk/jdk1.8.0_202/jre/lib/rt.jar!/" type="simple" />
           </root>
         </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root url="jar://C:/cbc/util/jdk/jdk1.8.0_202/src.zip!/" type="simple" />
@@ -104,11 +88,6 @@
       <version value="Oracle OpenJDK 17.0.11" />
       <homePath value="C:/cbc/util/jdk/jdk-17.0.11" />
       <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="jrt://C:/cbc/util/jdk/jdk-17.0.11!/java.base" type="simple" />
@@ -184,9 +163,6 @@
             <root url="jrt://C:/cbc/util/jdk/jdk-17.0.11!/jdk.zipfs" type="simple" />
           </root>
         </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root url="jar://C:/cbc/util/jdk/jdk-17.0.11/lib/src.zip!/java.se" type="simple" />

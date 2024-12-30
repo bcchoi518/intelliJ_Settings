@@ -17,10 +17,10 @@
     <driver id="postgresql">
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.6.0" />
     </driver>
-    <driver id="java.sql.Driver" name="Altibase" driver-class="Altibase7_3.jdbc.driver.AltibaseDriver">
+    <driver id="java.sql.Driver" name="Altibase" driver-class="Altibase7_1.jdbc.driver.AltibaseDriver">
       <url-template name="altibase" template="jdbc:Altibase://{host}:{port}/{database}" />
       <library>
-        <url>file://C:/cbc/util/driver/altibase/Altibase7_3.jar</url>
+        <url>file://C:/cbc/util/driver/altibase/Altibase7_1.jar</url>
       </library>
     </driver>
   </component>

@@ -13,10 +13,10 @@
     <mask>*.css</mask>
     <mask>*.properties</mask>
     <mask>*Controller.java</mask>
-    <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*_altibase.xml</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>*.jsp</mask>
   </component>
 </application>

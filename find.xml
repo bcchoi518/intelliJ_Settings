@@ -11,10 +11,10 @@
     <mask>*.css</mask>
     <mask>*.properties</mask>
     <mask>*Controller.java</mask>
-    <mask>*.java</mask>
     <mask>*_altibase.xml</mask>
     <mask>*.js</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>

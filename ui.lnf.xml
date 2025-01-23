@@ -3,10 +3,7 @@
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
     <option name="SEPARATE_MAIN_MENU" value="true" />
-    <option name="SHOW_TOOL_WINDOW_NAMES" value="true" />
     <option name="showTreeIndentGuides" value="true" />
-    <option name="TOOL_WINDOW_LEFT_SIDE_CUSTOM_WIDTH" value="82" />
-    <option name="TOOL_WINDOW_RIGHT_SIDE_CUSTOM_WIDTH" value="40" />
     <option name="UI_DENSITY" value="COMPACT" />
   </component>
 </application>

@@ -13,8 +13,8 @@
     <mask>*Controller.java</mask>
     <mask>*_altibase.xml</mask>
     <mask>*.js</mask>
-    <mask>*.java</mask>
-    <mask>*.jsp</mask>
     <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.java</mask>
   </component>
 </application>

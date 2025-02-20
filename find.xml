@@ -13,9 +13,9 @@
     <mask>*Controller.java</mask>
     <mask>*_altibase.xml</mask>
     <mask>*.js</mask>
-    <mask>*.xml</mask>
     <mask>write.jsp</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

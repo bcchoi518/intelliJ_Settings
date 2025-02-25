@@ -169,7 +169,7 @@
     <jdk version="2">
       <name value="23" />
       <type value="JavaSDK" />
-      <version value="java version &quot;23.0.2&quot;" />
+      <version value="Oracle OpenJDK 23.0.2" />
       <homePath value="C:/Developement/tools/jdk-23.0.2" />
       <roots>
         <annotationsPath>

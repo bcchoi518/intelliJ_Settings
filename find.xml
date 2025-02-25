@@ -15,7 +15,7 @@
     <mask>*.js</mask>
     <mask>write.jsp</mask>
     <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>*.jsp</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

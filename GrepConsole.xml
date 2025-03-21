@@ -41,6 +41,7 @@
                           </option>
                           <option name="foregroundColor">
                             <GrepColor>
+                              <option name="color" value="-3080084" />
                               <option name="colorKey" value="GrepConsole.error.foreground" />
                               <option name="enabled" value="true" />
                             </GrepColor>
@@ -60,6 +61,7 @@
                           </option>
                           <option name="foregroundColor">
                             <GrepColor>
+                              <option name="color" value="-3033856" />
                               <option name="colorKey" value="GrepConsole.warn.foreground" />
                               <option name="enabled" value="true" />
                             </GrepColor>
@@ -80,6 +82,7 @@
                           </option>
                           <option name="foregroundColor">
                             <GrepColor>
+                              <option name="color" value="-16723514" />
                               <option name="colorKey" value="GrepConsole.info.foreground" />
                               <option name="enabled" value="true" />
                             </GrepColor>
@@ -99,6 +102,7 @@
                           </option>
                           <option name="foregroundColor">
                             <GrepColor>
+                              <option name="color" value="-9711253" />
                               <option name="colorKey" value="GrepConsole.debug.foreground" />
                               <option name="enabled" value="true" />
                             </GrepColor>

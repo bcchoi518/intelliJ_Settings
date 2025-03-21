@@ -50,7 +50,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*WARN.*" />
+                      <option name="grepExpression" value=".*경고.*" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -70,8 +70,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
-                      <option name="grepExpression" value=".*INFO.*" />
+                      <option name="grepExpression" value=".*정보.*" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">

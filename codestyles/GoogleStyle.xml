@@ -69,6 +69,7 @@
     </option>
     <option name="IMPORT_LAYOUT_TABLE">
       <value>
+        <package name="" withSubpackages="true" static="false" module="true" />
         <package name="" withSubpackages="true" static="true" />
         <emptyLine />
         <package name="" withSubpackages="true" static="false" />
@@ -198,6 +199,11 @@
   </codeStyleSettings>
   <codeStyleSettings language="JSP">
     <option name="RIGHT_MARGIN" value="500" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JSPX">
     <option name="RIGHT_MARGIN" value="500" />
